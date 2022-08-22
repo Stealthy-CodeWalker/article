@@ -4,6 +4,8 @@
     width: 1536px;
     height: 970px;
     left: 0px;
+    right: 0px;
     top: 0px;
+    bottom: 0px;
     filter: blur(5px);
 }
