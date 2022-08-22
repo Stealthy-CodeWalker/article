@@ -1,0 +1,30 @@
+#t1
+{
+  position: absolute;
+width: 513px;
+height: 48px;
+left: 512px;
+right: 511px;
+top: 20px;
+bottom: 902px;
+
+font-family: 'Dancing Script';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+/* identical to box height */
+
+
+color: #000000;
+}
+#i11
+{
+  position: absolute;
+width: 553px;
+height: 291px;
+left: 492px;
+right:491px;
+top: 90px;
+bottom: 589px;
+}
